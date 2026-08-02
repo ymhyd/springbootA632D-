@@ -1,5 +1,3 @@
-# springbootA632D-
-springbootA632D 宠物医院信息管理系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
